@@ -27,12 +27,15 @@ module.exports = {
   ** Global CSS
   */
   css: [
+    { src: '~assets/scss/reset.scss', lang: 'scss' }
   ],
 
   /*
   ** Plugins to load before mounting the App
   */
   plugins: [
+    '~/plugins/global.js',
+    {src: '~plugins/rem.js', ssr: false}
   ],
 
   /*
