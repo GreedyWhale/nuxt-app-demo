@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{174:function(e,i,n){"use strict";n.r(i);var t=n(14),s=Object(t.a)({},function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("知识百科")])},[],!1,null,null,null);s.options.__file="wikipedia.vue";i.default=s.exports}}]);

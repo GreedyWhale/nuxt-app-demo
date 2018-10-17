@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{172:function(t,e,n){"use strict";n.r(e);var i=n(14),s=Object(i.a)({},function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v("人气榜")])},[],!1,null,null,null);s.options.__file="sentimentList.vue";e.default=s.exports}}]);
